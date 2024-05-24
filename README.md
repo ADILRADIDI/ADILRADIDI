@@ -13,8 +13,8 @@ A passionate FullStack Developer from Morocco.
 ## Connect with me
 
 - [GitHub](https://github.com/ADILRADIDI)
-- [LinkedIn]([https://www.linkedin.com/in/adil-radidi-3634572a2/])
-- [Instagram]([https://www.instagram.com/adilradidi/])
+- [LinkedIn](https://www.linkedin.com/in/adil-radidi-3634572a2/)
+- [Instagram](https://www.instagram.com/adilradidi/)
 
 ## Languages and Tools
 
