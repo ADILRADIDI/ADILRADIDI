@@ -13,7 +13,7 @@ A passionate FullStack Developer from Morocco.
 ## Connect with me
 
 - [GitHub](https://github.com/ADILRADIDI)
-- [LinkedIn]([https://www.linkedin.com/in/rishav-chanda-b89a791b3](https://www.linkedin.com/in/adil-radidi-3634572a2/))
+- [LinkedIn]([https://www.linkedin.com/in/adil-radidi-3634572a2/])
 - [Instagram]([https://www.instagram.com/adilradidi/])
 
 ## Languages and Tools
