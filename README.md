@@ -1,5 +1,5 @@
 # Hi there! 👋, I'm ADIL RADIDI
-
+![Coding Image](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344)
 A passionate FullStack Developer from Morocco.
 
 ## About Me
