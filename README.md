@@ -21,7 +21,7 @@
 ## :sassy_man: About me
 
 - 🖥️ I am a Full Stack Developer specializing in Vue.js and Laravel.
-- 🖥️  See my portfolio at [MyPortfolio]([https://adilradidi.netlify.app/]).
+- 🖥️  See my portfolio at [MyPortfolio](http://adilradidi.me).
 - ✉️  You can contact me at [adilradidi@gmail.com](mailto:adilradidi212@gmail.com)
 
 <br>
