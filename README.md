@@ -1,8 +1,7 @@
 # Hi there, I'm Adil Radidi 👋
 
 [![Youtube:Adil](https://img.shields.io/badge/-Adil-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UC6GNAIbkg1NV0LmhopxOxiA)](https://www.youtube.com/channel/UC6GNAIbkg1NV0LmhopxOxiA)
-[![Linkedin:Adil](https://img.shields.io/badge/-Adil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adil-radidi/)](https://www.linkedin.com/in/adil-radidi/)
-[![Facebook:Adil](https://img.shields.io/badge/-Adil-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/adilradidi)](https://www.facebook.com/adilradidi)
+[![Linkedin:Adil](https://img.shields.io/badge/-Adil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adil-radidi/)](https://www.linkedin.com/in/adil-radidi-3634572a2/)
 [![Twitter:Adil](https://img.shields.io/badge/-Adil-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/adilradidi)](https://twitter.com/adilradidi)
 ![GitHub followers](https://img.shields.io/github/followers/adilradidi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=adilradidi&label=Profile%20views&color=0e75b6&style=plastic" alt="adil radidi github" width="110px" />
@@ -63,16 +62,7 @@
 
 <br>
 
-## 📈 GitHub Stats
 
-<div align="center">
-	<a href="https://github.com/adilradidi">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilradidi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilradidi&layout=compact&langs_count=8&theme=algolia"/>
-	</a>
-</div>
-
-<br>
 
 ## 📫 How to reach me:
 
