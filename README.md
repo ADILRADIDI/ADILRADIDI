@@ -22,7 +22,7 @@
 
 - 🖥️ I am a Full Stack Developer specializing in Vue.js and Laravel.
 - 🖥️  See my portfolio at [MyPortfolio](https://adilradidi.netlify.app/).
-- ✉️  You can contact me at [adilradidi@gmail.com](mailto:adilradidi212@gmail.com)
+- ✉️  You can contact me at [adilradidi212@gmail.com](mailto:adilradidi212@gmail.com)
 
 <br>
 
