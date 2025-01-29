@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/adilradidi?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=adilradidi&label=Profile%20views&color=0e75b6&style=plastic" alt="adil radidi github" width="110px" />
 
-![AdilRadidioverturegithub](https://media.licdn.com/dms/image/D4E16AQHTOae79Ds0WA/profile-displaybackgroundimage-shrink_350_1400/0/1721329433805?e=1726704000&v=beta&t=MxyXIpw2lSi2pG6fC3P5ALReKjkw5BYYDBOtml1S3fw)
+![AdilRadidioverturegithub]([https://media.licdn.com/dms/image/D4E16AQHTOae79Ds0WA/profile-displaybackgroundimage-shrink_350_1400/0/1721329433805?e=1726704000&v=beta&t=MxyXIpw2lSi2pG6fC3P5ALReKjkw5BYYDBOtml1S3fw](https://media.licdn.com/dms/image/v2/D4E16AQGlvzWu3pcjQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728406945447?e=1743638400&v=beta&t=58zsU0HbRlMTB6AllAIUlRVFmlum5ai7UZUN3oCsXyk))
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
