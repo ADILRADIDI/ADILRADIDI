@@ -1,7 +1,7 @@
-i want profile good in github this i want <p align="center">
-  <img src="banner.jpg" alt="Kich Yassine Banner" width="100%">
+<p align="center">
+  <img src="banner.jpg" alt="radidi Banner" width="100%">
 </p>
-<h1 align="center">Hi, I'm Yassine <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Adil radidi (Privee) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
