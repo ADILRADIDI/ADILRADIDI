@@ -10,9 +10,9 @@
 class Supreme():
     
   def __init__(self):
-    self.name = "Kich Yassine"
-    self.username = "kishyassin"
-    self.instagram = "@kishyassin"
+    self.name = "ADIL RADIDI"
+    self.username = "Privee"
+    self.instagram = "@adilradidi"
   
   def __str__(self):
     return self.name
